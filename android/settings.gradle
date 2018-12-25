@@ -1,0 +1,3 @@
+rootProject.name = 'Nativeone'
+
+include ':app'
